@@ -8,6 +8,7 @@
   * Incertitudes
     * [Incertitude sur la valeur d'une résistance](exercices/outils/incertitudes_resistance.md)
   * Oscillateurs harmonique
+    * [Circuit LC](exercices/outils/oscillateur_harmonique_LC.md)
 
 * Optique
   * Optique géométrique
