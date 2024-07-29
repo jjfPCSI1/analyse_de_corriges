@@ -15,6 +15,8 @@
     * [Réfractomètre](exercices/optique/fibre_optique.md)
     * [Fibre optique](exercices/optique/refractometre.md)
   * Lentilles minces
+    * [Lentille divergente](exercices/optique/lentille_divergente.md)
+    * [Lunette astronomique](exercices/optique/lunette_astronomique.md)
 
 * Électricité
   * [Cicuits linéaires dans le cadre de l'ARQS](chapitres/ARQS.md)
