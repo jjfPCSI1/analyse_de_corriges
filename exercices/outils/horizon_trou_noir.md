@@ -2,7 +2,7 @@
 
 ## Énoncé
 
-1. En utilisant l'analyse dimensionnelle, déterminez l'expression du rayon de l'horizon d'un trou noir (appelé rayon de Schwarzschild) en fonction de la constante de gravitation $G$$, de la vitesse de la lumière $$c$$ et de la masse $$M$$ du trou noir.
+1. En utilisant l'analyse dimensionnelle, déterminez l'expression du rayon de l'horizon d'un trou noir (appelé rayon de Schwarzschild) en fonction de la constante de gravitation $$G$$, de la vitesse de la lumière $$c$$ et de la masse $$M$$ du trou noir.
 2. Expliquez pourquoi une telle approche est possible et quelles sont les limites de cette méthode.
 3. Vérifiez que l'expression obtenue est homogène à une longueur.
 
@@ -76,7 +76,7 @@
 
 1. Pourquoi est-il légitime d'utiliser l'analyse dimensionnelle pour ce type de problème ?
 2. Quels seraient les dangers d'une telle méthode dans un problème où d'autres paramètres physiques non considérés ici pourraient jouer un rôle important ?
-3. Justifiez pourquoi $k = 2$ dans l'expression finale du rayon de Schwarzschild.
+3. Justifiez pourquoi $$k = 2$$ dans l'expression finale du rayon de Schwarzschild.
 4. Dans l'étape de la vérification de l'homogénéité, pourquoi est-il crucial de vérifier chaque terme séparément ?
 
 ## Corrigé des questions d'analyse
