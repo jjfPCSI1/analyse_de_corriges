@@ -2,19 +2,18 @@
 
 * [Welcome !](README.md)
 
-* Outils transversaux
-  * Hommogénéité
-  * Incertitudes
-  * Oscillateurs harmonique
+* [Outils transversaux](blocs/outils_transversaux.md)
+  * [Homogénéité](chapitres/homogeneite.md)
+  * [Incertitudes](chapitres/incertitudes.md)
+  * [Oscillateurs harmonique](chapitres/oscillateur_harmonique.md)
 
-* Optique
-  * Optique géométrique
-  * Lentilles minces
+* [Optique](blocs/optique.md)
+  * [Optique géométrique](chapitres/optique_geometrique.md)
+  * [Lentilles minces](chapitres/lentilles_minces.md)
 
-* Électricité
+* [Électricité](blocs/electricite.md)
   * [Cicuits linéaires dans le cadre de l'ARQS](chapitres/ARQS.md)
-  * Circuits du premier ordre
-    * [Charge d'un circuit RC parallèle](exercices/elec/charge_circuit_RC_parallele.md)
+  * [Circuits du premier ordre](chapitres/premier_ordre.md)
   * [Oscillateurs amortis](chapitres/oscillateurs_amortis_elec.md)
   * [Oscillations forcées](chapitres/oscillateurs_forces_elec.md)
   * [Filtrage linéaire](chapitres/filtrage_lineaire_elec.md)
