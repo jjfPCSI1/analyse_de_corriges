@@ -12,6 +12,8 @@
 
 * Optique
   * Optique géométrique
+    * [Réfractomètre](exercices/optique/fibre_optique.md)
+    * [Fibre optique](exercices/optique/refractometre.md)
   * Lentilles minces
 
 * Électricité
