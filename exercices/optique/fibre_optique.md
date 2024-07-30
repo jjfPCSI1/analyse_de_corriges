@@ -1,5 +1,7 @@
 # Fibre optique à saut d'indice
 
+![](images/fibre_optique.webp)
+
 ## Énoncé
 
 1. Une fibre optique à saut d'indice est constituée d'un cœur de matériau transparent de rayon $$a$$ et d'indice de réfraction $$n_1$$, entouré d'une gaine d'indice de réfraction $$n_2$$ ($$n_2 < n_1$$). La lumière est guidée dans le cœur de la fibre grâce à la réflexion totale interne.

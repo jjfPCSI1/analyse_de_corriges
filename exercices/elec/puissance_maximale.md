@@ -1,6 +1,6 @@
 # Calcul de la puissance reçue par une résistance dans un circuit en série
 
-![](elec/images/puissance_maximale.webp)
+![](images/puissance_maximale.webp)
 
 ## Énoncé
 

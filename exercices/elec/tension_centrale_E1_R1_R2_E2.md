@@ -1,5 +1,7 @@
 # Calcul de la tension centrale dans un circuit avec deux résistances et deux générateurs idéaux de tension
 
+![](images/tension_centrale_E1_R1_R2_E2.webp)
+
 ## Énoncé
 
 Considérez un circuit électrique composé de deux résistances $$R_1$$ et $$R_2$$ en série, connectées à deux générateurs de tension idéaux $$E_1$$ et $$E_2$$ en série. Le générateur $$E_1$$ est connecté en série avec $$R_1$$, et $$R_2$$ est connecté en série avec $$E_2$$, formant une boucle complète. Les valeurs des composants sont les suivantes :
