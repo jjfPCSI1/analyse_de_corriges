@@ -29,21 +29,21 @@
   * [Filtrage linéaire](chapitres/filtrage_lineaire_elec.md)
 
 * [Mécanique](blocs/mecanique.md)
-  * [Connaissances de base sur les vecteurs](chapitres/bases_vecteurs.md)
+  * Connaissances de base sur les vecteurs
     * [Addition et produit scalaire](exercices/meca/addition_et_produit_scalaire.md)
     * [Décomposition dans une base et produit vectoriel](exercices/meca/decomposition_et_produit_vectoriel.md)
-  * [Cinématique](chapitres/cinematique.md)
-    *[Mouvement circulaire uniformément accéléré](exercices/meca/mouvement_circulaire_uniformement_accelere.md)
+  * Cinématique
+    * [Mouvement circulaire uniformément accéléré](exercices/meca/mouvement_circulaire_uniformement_accelere.md)
   * Relation fondamentale de la dynamique
     * [Masse sur plan incliné](exercices/meca/plan_incline.md)
-  * [Approche énergétique](chapitres/energie.md)
-  * [Systèmes à un degré de liberté](chapitres/1ddl.md)
-  * [Mouvement de particules chargées](chapitres/E_et_B.md)
-  * [Mouvements de rotation](chapitres/moment_cinetique.md)
-  * [Forces centrales](chapitres/forces_centrales.md)
-  * [Oscillateurs amortis](chapitres/oscillateurs_amortis_meca.md)
-  * [Oscillations forcées](chapitres/oscillateurs_forces_meca.md)
-  * [Filtrage linéaire](chapitres/filtrage_lineaire_meca.md)
+  * Approche énergétique
+  * Systèmes à un degré de liberté
+  * Mouvement de particules chargées
+  * Mouvements de rotation
+  * Forces centrales
+  * Oscillateurs amortis
+  * Oscillations forcées
+  * Filtrage linéaire
 
 * [Induction](blocs/induction.md)
 
