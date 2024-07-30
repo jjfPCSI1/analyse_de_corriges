@@ -34,6 +34,7 @@
     * [Décomposition dans une base et produit vectoriel](exercices/meca/decomposition_et_produit_vectoriel.md)
   * Cinématique
     * [Mouvement circulaire uniformément accéléré](exercices/meca/mouvement_circulaire_uniformement_accelere.md)
+    * [Rotation d'un point sur une roue de vélo](exercices/meca/roue_de_velo.md)
   * Relation fondamentale de la dynamique
     * [Masse sur plan incliné](exercices/meca/plan_incline.md)
   * Approche énergétique
