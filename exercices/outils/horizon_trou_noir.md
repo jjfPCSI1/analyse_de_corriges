@@ -1,5 +1,7 @@
 # Détermination du rayon de l'horizon d'un trou noir par analyse dimensionnelle
 
+![Horizon d'un trou noir](images/horizon_trou_noir.webp)
+
 ## Énoncé
 
 1. En utilisant l'analyse dimensionnelle, déterminez l'expression du rayon de l'horizon d'un trou noir (appelé rayon de Schwarzschild) en fonction de la constante de gravitation $$G$$, de la vitesse de la lumière $$c$$ et de la masse $$M$$ du trou noir.

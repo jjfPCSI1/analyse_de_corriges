@@ -20,8 +20,8 @@
 
 * Électricité
   * [Cicuits linéaires dans le cadre de l'ARQS](chapitres/ARQS.md)
-    * [Puissance maximale reçue par une résistance](puissance_maximale.md)
-    * [Tension au milieu d'un circuit](tension_centrale_E1_R1_R2_E2.md)
+    * [Puissance maximale reçue par une résistance](exercices/elec/puissance_maximale.md)
+    * [Tension au milieu d'un circuit](exercice/elec/tension_centrale_E1_R1_R2_E2.md)
   * Circuits du premier ordre
     * [Charge d'un circuit RC parallèle](exercices/elec/charge_circuit_RC_parallele.md)
   * [Oscillateurs amortis](chapitres/oscillateurs_amortis_elec.md)
