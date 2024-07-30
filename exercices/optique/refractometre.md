@@ -2,7 +2,9 @@
 
 ## Énoncé
 
-1. Un réfractomètre est un instrument utilisé pour mesurer l'indice de réfraction $$n$$ d'un liquide. Le principe de fonctionnement repose sur la mesure de l'angle critique $$\theta_c$$, au-delà duquel la lumière est totalement réfléchie à l'interface entre le liquide et l'air.
+Un réfractomètre est un instrument utilisé pour mesurer l'indice de réfraction $$n$$ d'un liquide. Le principe de fonctionnement repose sur la mesure de l'angle critique $$\theta_c$$, au-delà duquel la lumière est totalement réfléchie à l'interface entre le liquide et l'air.
+
+1. Donner la relation reliant l'angle critique de réflexion totale aux indices des deux milieux
 2. Lors de l'expérience, un angle critique de $$\theta_c = 45^\circ$$ est observé. Calculez l'indice de réfraction du liquide, sachant que l'indice de réfraction de l'air est $$n_{\text{air}} = 1$$.
 3. En utilisant une autre méthode, l'angle critique mesuré est de $$\theta_c = 42^\circ$$. Calculez l'indice de réfraction du liquide dans ce cas.
 4. Comparez les résultats obtenus avec les deux angles critiques et discutez des sources possibles d'erreur.
