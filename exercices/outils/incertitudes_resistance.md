@@ -1,6 +1,6 @@
 # Calcul d'incertitude pour la mesure d'une résistance
 
-![Incertitudes de mesure](images/incertitudes_resistance.webp)
+![](images/incertitudes_resistance.webp)
 
 ## Énoncé
 

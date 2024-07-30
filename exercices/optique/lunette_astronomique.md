@@ -1,6 +1,6 @@
 # Observation des cratères de la Lune avec une lunette astronomique
 
-![Galilée et Jupiter](image/lunette_astronomique.webp)
+![](image/lunette_astronomique.webp)
 
 ## Énoncé
 

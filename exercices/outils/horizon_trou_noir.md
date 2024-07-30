@@ -1,6 +1,6 @@
 # Détermination du rayon de l'horizon d'un trou noir par analyse dimensionnelle
 
-![Horizon d'un trou noir](images/horizon_trou_noir.webp)
+![](images/horizon_trou_noir.webp)
 
 ## Énoncé
 
