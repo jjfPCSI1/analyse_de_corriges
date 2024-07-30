@@ -1,6 +1,6 @@
 # Observation des cratères de la Lune avec une lunette astronomique
 
-![](image/lunette_astronomique.webp)
+![](images/lunette_astronomique.webp)
 
 ## Énoncé
 
