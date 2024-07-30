@@ -30,8 +30,12 @@
 
 * [Mécanique](blocs/mecanique.md)
   * [Connaissances de base sur les vecteurs](chapitres/bases_vecteurs.md)
+    * [Addition et produit scalaire](exercices/meca/addition_et_produit_scalaire.md)
+    * [Décomposition dans une base et produit vectoriel](exercices/meca/decomposition_et_produit_vectoriel.md)
   * [Cinématique](chapitres/cinematique.md)
-  * [Relation fondamentale de la dynamique](chapitres/RFD.md)
+    *[Mouvement circulaire uniformément accéléré](exercices/meca/mouvement_circulaire_uniformement_accelere.md)
+  * Relation fondamentale de la dynamique
+    * [Masse sur plan incliné](exercices/meca/plan_incline.md)
   * [Approche énergétique](chapitres/energie.md)
   * [Systèmes à un degré de liberté](chapitres/1ddl.md)
   * [Mouvement de particules chargées](chapitres/E_et_B.md)
