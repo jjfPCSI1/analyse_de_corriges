@@ -1,5 +1,7 @@
 # Observation des cratères de la Lune avec une lunette astronomique
 
+![Galilée et Jupiter](image/lunette_astronomique.webp)
+
 ## Énoncé
 
 Une lunette astronomique permet d'observer des objets célestes en augmentant leur taille apparente grâce à un système optique composé d'un objectif et d'un oculaire. L'objectif capte la lumière et forme une image intermédiaire agrandie par l'oculaire, permettant une observation détaillée.

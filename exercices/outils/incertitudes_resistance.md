@@ -1,5 +1,7 @@
 # Calcul d'incertitude pour la mesure d'une résistance
 
+![Incertitudes de mesure](images/incertitudes_resistance.webp)
+
 ## Énoncé
 
 1. Lors d'un TP, vous devez mesurer la résistance $$R$$ d'un composant en utilisant la loi d'Ohm : $$R = \frac{U}{I}$$, où $$U$$ est la tension aux bornes du composant et $$I$$ l'intensité du courant qui le traverse.
