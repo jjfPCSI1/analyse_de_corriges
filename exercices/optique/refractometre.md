@@ -1,5 +1,7 @@
 # Mesure de l'indice de réfraction avec un réfractomètre
 
+![](images/refractometre.webp)
+
 ## Énoncé
 
 Un réfractomètre est un instrument utilisé pour mesurer l'indice de réfraction $$n$$ d'un liquide. Le principe de fonctionnement repose sur la mesure de l'angle critique $$\theta_c$$, au-delà duquel la lumière est totalement réfléchie à l'interface entre le liquide et l'air.

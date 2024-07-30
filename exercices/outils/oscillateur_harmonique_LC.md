@@ -1,5 +1,7 @@
 # Oscillateur harmonique LC
 
+![](images/oscillateur_harmonique_LC.webp)
+
 ## Énoncé
 
 1. Considérez un circuit LC composé d'une bobine de self-inductance $$L$$ et d'un condensateur de capacité $$C$$, initialement chargé avec une charge $$Q_0$$. Écrivez l'équation différentielle gouvernant l'évolution de la charge $$Q(t)$$ sur le condensateur.

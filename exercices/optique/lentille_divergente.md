@@ -1,5 +1,7 @@
 # Calcul avec une lentille divergente
 
+![](images/lentille_divergente.webp)
+
 ## Énoncé
 
 1. Une lentille divergente a une distance focale $$f = -20 \, \text{cm}$$. Un objet est placé à une distance de $$30 \, \text{cm}$$ de la lentille. Utilisez la formule de Descartes pour déterminer la position de l'image formée par la lentille.

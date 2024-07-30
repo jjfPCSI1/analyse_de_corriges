@@ -1,5 +1,7 @@
 # Calcul de la puissance reçue par une résistance dans un circuit en série
 
+![](elec/images/puissance_maximale.webp)
+
 ## Énoncé
 
 Considérez un circuit électrique composé d'un générateur de tension $$E$$, et de deux résistances $$r$$ et $$R$$ en série. Le but est de calculer la puissance reçue par $$R$$ et de montrer qu'elle est maximale lorsque $$r = R$$. Les valeurs des composants sont :
