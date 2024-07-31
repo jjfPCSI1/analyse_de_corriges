@@ -1,6 +1,6 @@
 # Électricité
 
-![](images/électricité.webp)
+![](images/electricite.webp)
 
 Le bloc de électricité se découpe en plusieurs chapitres:
 

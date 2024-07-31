@@ -1,6 +1,6 @@
 # Mécanique
 
-![](images/mécanique.webp)
+![](images/mecanique.webp)
 
 Le bloc de mécanique se découpe en plusieurs chapitres:
 

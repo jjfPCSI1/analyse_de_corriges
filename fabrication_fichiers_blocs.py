@@ -30,7 +30,8 @@ def create_markdown_files(summary_file):
         
         with open(filepath, 'w', encoding='utf-8') as file:
             title = item['title']
-            bloc_name = title.lower().replace(' ', '_')
+            bloc_name = filepath.replace('blocs/','').replace('.md','')
+#title.lower().replace(' ', '_')
             file.write(f"# {title}\n\n")
             file.write(f"![](images/{bloc_name}.webp)\n\n")
             file.write(f"Le bloc de {title.lower()} se découpe en plusieurs chapitres:\n\n")
