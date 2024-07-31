@@ -2,7 +2,7 @@
 
 * [Welcome !](README.md)
 
-* Outils transversaux
+* [Outils transversaux](blocs/outils_transversaux.md)
   * Homogénéité
     * [Calcul de l'horizon d'un trou noir](exercices/outils/horizon_trou_noir.md)
   * Incertitudes
@@ -10,7 +10,7 @@
   * Oscillateurs harmonique
     * [Circuit LC](exercices/outils/oscillateur_harmonique_LC.md)
 
-* Optique
+* [Optique](blocs/optique.md)
   * Optique géométrique
     * [Réfractomètre](exercices/optique/refractometre.md)
     * [Fibre optique](exercices/optique/fibre_optique.md)
@@ -18,7 +18,7 @@
     * [Lentille divergente](exercices/optique/lentille_divergente.md)
     * [Lunette astronomique](exercices/optique/lunette_astronomique.md)
 
-* Électricité
+* [Électricité](blocs/electricite.md)
   * [Cicuits linéaires dans le cadre de l'ARQS](chapitres/ARQS.md)
     * [Puissance maximale reçue par une résistance](exercices/elec/puissance_maximale.md)
     * [Tension au milieu d'un circuit](exercices/elec/tension_centrale_E1_R1_R2_E2.md)

@@ -1,19 +1,21 @@
 # Mécanique
 
+![](images/mecanique.webp)
+
 Le bloc de mécanique se découpe en plusieurs chapitres:
 
-* [Connaissances de base sur les vecteurs](chapitres/bases_vecteurs.md)
+* Connaissances de base sur les vecteurs
 
-* [Cinématique](chapitres/cinematique.md)
+* Cinématique
 
-* [Relation fondamentale de la dynamique](chapitres/RFD.md)
+* Relation fondamentale de la dynamique
 
-* [Approche énergétique](chapitres/energie.md)
+* Approche énergétique
 
-* [Systèmes à un degré de liberté](chapitres/1ddl.md)
+* Systèmes à un degré de liberté
 
-* [Mouvement de particules chargées](chapitres/E_et_B.md)
+* Mouvement de particules chargées
 
-* [Mouvements de rotation](chapitres/moment_cinetique.md)
+* Mouvements de rotation
 
-* [Forces centrales](chapitres/forces_centrales.md)
+* Forces centrales
