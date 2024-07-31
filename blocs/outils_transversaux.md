@@ -1,11 +1,12 @@
 # Outils transversaux
 
-Les outils transversaux servent tout au long de l'année 
+![](images/outils_transversaux.webp)
 
-## Homogénéité
+Le bloc de outils transversaux se découpe en plusieurs chapitres:
 
-L'analyse de l'[homogénéité](chapitres/homogeneite.md) des relations en physique permet de détecter toutes sortes de problèmes et sert de garde-fou pour bien mener ses calculs.
-
-## Incertitudes
-
-L'estimation des [incertitudes](chapitres/incertitudes.md) permet de déterminer si une valeur trouvée expérimentalement est cohérente avec une valeur de référence ou une prédiction théorique.
+* Homogénéité
+  * [Calcul de l'horizon d'un trou noir](../exercices/outils/horizon_trou_noir.md)
+* Incertitudes
+  * [Incertitude sur la valeur d'une résistance](../exercices/outils/incertitudes_resistance.md)
+* Oscillateurs harmonique
+  * [Circuit LC](../exercices/outils/oscillateur_harmonique_LC.md)
