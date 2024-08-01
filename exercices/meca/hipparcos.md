@@ -1,6 +1,6 @@
 # Étude de l'orbite elliptique du satellite Hipparcos
 
-![](images/hypparcos.webp)
+![](images/hipparcos.webp)
 
 ## Énoncé
 

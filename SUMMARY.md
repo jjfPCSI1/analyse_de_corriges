@@ -42,7 +42,7 @@
   * Mouvement de particules chargées
   * Mouvements de rotation
   * Forces centrales
-    * [Satellite Hypparcos](exercices/meca/hypparcos.md)
+    * [Satellite Hipparcos](exercices/meca/hipparcos.md)
   * Oscillateurs amortis
   * Oscillations forcées
   * Filtrage linéaire
