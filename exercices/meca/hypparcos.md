@@ -1,5 +1,7 @@
 # Étude de l'orbite elliptique du satellite Hipparcos
 
+![](images/hypparcos.webp)
+
 ## Énoncé
 
 Le satellite Hipparcos a été lancé sur une orbite elliptique autour de la Terre avec une altitude minimale (périgée) de 400 km et une altitude maximale (apogée) de 36000 km. La Terre a un rayon de 6371 km et une masse de $$ 5.972 \times 10^{24} \, \text{kg} $$.
