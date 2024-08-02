@@ -55,7 +55,22 @@
   * Filtrage linéaire
 
 * [Induction](blocs/induction.md)
+  * Champ magnétique
+  * Forces de Laplace
+  * Loi de Faraday
+  * Circuit mobile dans un champ stationnaire
+  * Circuit fixe dans un champ variable
 
 * [Thermodynamique](blocs/thermodynamique.md)
+  * Statique des fluides
+  * Description microscopique et macroscopique d'un système à l'équilibre
+  * Fluides réels, phases condensées et changements d'état
+  * Énergie échangée par un système au cours d'une transformation
+  * Premier principe de la thermodynamique: bilans d'énergie
+  * Deuxième principe de la thermodynamique: bilans d'entropie
+  * Machines thermiques
 
 * [Ondes](blocs/ondes.md)
+  * Propagation d'un signal
+  * Superposition de deux signaux
+  * Introduction au monde quantique
