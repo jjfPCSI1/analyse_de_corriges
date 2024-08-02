@@ -2,6 +2,7 @@
 
 ![](images/optique.webp)
 
+
 Le bloc de optique se découpe en plusieurs chapitres:
 
 * Optique géométrique
