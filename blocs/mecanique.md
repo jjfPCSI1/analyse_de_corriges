@@ -12,7 +12,11 @@ Le bloc de mécanique se découpe en plusieurs chapitres:
   * [Rotation d'un point sur une roue de vélo](../exercices/meca/roue_de_velo.md)
 * Relation fondamentale de la dynamique
   * [Masse sur plan incliné](../exercices/meca/plan_incline.md)
+  * [Équilibre instable sur une demi-sphère](../exercices/meca/igloo.md)
+  * [Masse entre deux ressorts horizontaux](../exercices/meca/mobile_entre_deux_ressorts_version_force.md)
 * Approche énergétique
+  * [Travail pour un lancer de curling](../exercices/meca/curling.md)
+  * [Masse entre deux ressorts horizontaux](../exercices/meca/mobile_entre_deux_ressorts_version_energie.md)
 * Systèmes à un degré de liberté
 * Mouvement de particules chargées
 * Mouvements de rotation
