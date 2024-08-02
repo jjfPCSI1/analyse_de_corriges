@@ -1,5 +1,6 @@
 # Mesure de l'indice de réfraction avec un réfractomètre
 
+
 ![](images/refractometre.webp)
 
 ## Énoncé
