@@ -1,5 +1,7 @@
 # Travail de la force de frottement dans le cadre d'un lancé de curling
 
+![](images/curling.webp)
+
 ## Énoncé
 
 Lors d'une partie de curling, une pierre de masse $$m = 20 \, \text{kg}$$ est lancée sur une piste de glace. La pierre glisse sur la glace avec une vitesse initiale $$v_0 = 3 \, \text{m/s}$$. La force de frottement entre la glace et la pierre est une force constante qui s'oppose au mouvement de la pierre. Le coefficient de frottement cinétique entre la pierre et la glace est $$\mu_k = 0.02$$. Déterminez la distance que parcourt la pierre avant de s'arrêter.

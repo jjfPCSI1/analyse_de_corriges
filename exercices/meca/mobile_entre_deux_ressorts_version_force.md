@@ -1,5 +1,7 @@
 # Mouvement d'un mobile sous l'action de deux ressorts identiques
 
+![](images/mobile_entre_deux_ressorts_version_force.webp)
+
 ## Énoncé
 
 Un mobile autoporteur peut effectuer un mouvement de translation suivant un axe $$Ox$$ horizontal sous l'action de deux ressorts identiques, chacun ayant une constante de raideur $$k$$ et une longueur à vide $$\ell_0$$. Les ressorts sont fixés à des points fixes situés aux positions $$x = -L$$ et $$x = L$$ sur l'axe $$Ox$$. Le mobile est initialement à la position $$x = 0$$, où les ressorts sont à leur longueur à vide.
