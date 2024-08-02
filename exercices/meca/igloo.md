@@ -1,5 +1,7 @@
 # Calcul de l'angle de décollage d'un Inuit sur un igloo hémisphérique
 
+![](images/igloo.webp)
+
 ## Énoncé
 
 Un Inuit est assis au sommet de son igloo, supposé être une demi-sphère de rayon $$ R $$. À un certain angle $$ \theta $$ par rapport à la verticale, il commence à glisser sans frottements le long de la surface de l'igloo. Déterminez l'angle $$ \theta_d $$ (par rapport à la verticale) auquel il décolle de la surface de l'igloo.
