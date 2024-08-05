@@ -4,63 +4,65 @@
 
 ## Énoncé
 
-1. Lors d'un TP, vous devez mesurer la résistance $$R$$ d'un composant en utilisant la loi d'Ohm : $$R = \frac{U}{I}$$, où $$U$$ est la tension aux bornes du composant et $$I$$ l'intensité du courant qui le traverse.
-2. Les appareils de mesure utilisés fournissent les incertitudes suivantes :
+Lors d'un TP, vous devez mesurer la résistance $$R$$ d'un composant en utilisant la loi d'Ohm : $$R = \frac{U}{I}$$, où $$U$$ est la tension aux bornes du composant et $$I$$ l'intensité du courant qui le traverse.
+
+Les appareils de mesure utilisés fournissent les incertitudes suivantes :
    - Voltmètre : $$U = 10.0 \pm 0.1 \, V$$
    - Ampèremètre : $$I = 2.0 \pm 0.05 \, A$$
-3. Calculez la résistance $$R$$ et son incertitude en utilisant la propagation des incertitudes.
+
+Calculez la résistance $$R$$ et son incertitude en utilisant la propagation des incertitudes.
 
 ## Corrigé
 
-1. La résistance $$R$$ est donnée par :
-   $$
-   R = \frac{U}{I}
-   $$
+La résistance $$R$$ est donnée par :
+$$
+R = \frac{U}{I}
+$$
 
-   En utilisant les valeurs mesurées :
-   $$
-   R = \frac{10.0 \, V}{2.0 \, A} = 5.0 \, \Omega
-   $$
+En utilisant les valeurs mesurées :
+$$
+R = \frac{10.0 \, V}{2.0 \, A} = 5.0 \, \Omega
+$$
 
-2. Pour calculer l'incertitude sur $$R$$, on utilise la formule de propagation des incertitudes pour une division :
-   $$
-   \left( \frac{\Delta R}{R} \right)^2 = \left( \frac{\Delta U}{U} \right)^2 + \left( \frac{\Delta I}{I} \right)^2
-   $$
+Pour calculer l'incertitude sur $$R$$, on utilise la formule de propagation des incertitudes pour une division :
+$$
+\left( \frac{\Delta R}{R} \right)^2 = \left( \frac{\Delta U}{U} \right)^2 + \left( \frac{\Delta I}{I} \right)^2
+$$
 
-   Avec $$\Delta U = 0.1 \, V$$ et $$\Delta I = 0.05 \, A$$, les incertitudes relatives sont :
-   $$
-   \frac{\Delta U}{U} = \frac{0.1}{10.0} = 0.01
-   $$
-   $$
-   \frac{\Delta I}{I} = \frac{0.05}{2.0} = 0.025
-   $$
+Avec $$\Delta U = 0.1 \, V$$ et $$\Delta I = 0.05 \, A$$, les incertitudes relatives sont :
+$$
+\frac{\Delta U}{U} = \frac{0.1}{10.0} = 0.01
+$$
+$$
+\frac{\Delta I}{I} = \frac{0.05}{2.0} = 0.025
+$$
 
-   On peut alors écrire :
-   $$
-   \left( \frac{\Delta R}{5.0} \right)^2 = 0.01^2 + 0.025^2
-   $$
-   $$
-   \left( \frac{\Delta R}{5.0} \right)^2 = 0.0001 + 0.000625
-   $$
-   $$
-   \left( \frac{\Delta R}{5.0} \right)^2 = 0.000725
-   $$
-   $$
-   \frac{\Delta R}{5.0} = \sqrt{0.000725}
-   $$
-   $$
-   \frac{\Delta R}{5.0} \approx 0.0269
-   $$
+On peut alors écrire :
+$$
+\left( \frac{\Delta R}{5.0} \right)^2 = 0.01^2 + 0.025^2
+$$
+$$
+\left( \frac{\Delta R}{5.0} \right)^2 = 0.0001 + 0.000625
+$$
+$$
+\left( \frac{\Delta R}{5.0} \right)^2 = 0.000725
+$$
+$$
+\frac{\Delta R}{5.0} = \sqrt{0.000725}
+$$
+$$
+\frac{\Delta R}{5.0} \approx 0.0269
+$$
 
-   D'où l'incertitude absolue sur $$R$$ :
-   $$
-   \Delta R = 5.0 \times 0.0269 \approx 0.13 \, \Omega
-   $$
+D'où l'incertitude absolue sur $$R$$ :
+$$
+\Delta R = 5.0 \times 0.0269 \approx 0.13 \, \Omega
+$$
 
-   La valeur finale de la résistance avec son incertitude est donc :
-   $$
-   R = 5.0 \pm 0.13 \, \Omega
-   $$
+La valeur finale de la résistance avec son incertitude est donc :
+$$
+R = 5.0 \pm 0.13 \, \Omega
+$$
 
 ## Questions d'analyse
 
@@ -93,4 +95,4 @@
    $$
    R = 5.0 \pm 0.16 \, \Omega
    $$
-5. La formule de propagation des incertitudes suppose que les erreurs des différentes mesures sont indépendantes et suivent une distribution normale (gaussienne). Cette hypothèse est généralement valide pour des mesures répétées nombreuses et des erreurs aléatoires, mais elle peut ne pas tenir en cas d'erreurs systématiques ou de corrélations entre les mesures.
+5. La formule de propagation des incertitudes suppose que les erreurs des différentes mesures sont indépendantes, suivent une distribution normale (gaussienne) et ne sont pas trop importantes. Ces hypothèses sont généralement valide pour des mesures répétées nombreuses et des erreurs aléatoires, mais elle peut ne pas tenir en cas d'erreurs systématiques ou de corrélations entre les mesures.
