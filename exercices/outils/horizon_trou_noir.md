@@ -4,14 +4,14 @@
 
 ## Énoncé
 
-1. Déterminer la dimension de la constante de gravitation universelle $G$
+1. Déterminer la dimension de la constante de gravitation universelle $$G$$
 2. En utilisant l'analyse dimensionnelle, déterminez l'expression du rayon de l'horizon d'un trou noir (appelé rayon de Schwarzschild) en fonction de la constante de gravitation $$G$$, de la vitesse de la lumière $$c$$ et de la masse $$M$$ du trou noir.
 3. Expliquez pourquoi une telle approche est possible et quelles sont les limites de cette méthode.
 4. Vérifiez que l'expression obtenue est homogène à une longueur.
 
 ## Corrigé
 
-1. La dimension de $G$ se retrouve à partir de l'expression de la force gravitationnelle
+1. La dimension de $$G$$ se retrouve à partir de l'expression de la force gravitationnelle
    $$
    F_g = \frac{GMm}{r^2}
    $$
@@ -19,7 +19,7 @@
    $$
    [F_g] = [G]\times \text{M}^2 \times \text{L}^-2
    $$
-   Or une force est le produit d'une masse par une accélération donc $[F_g] = \text{M}.\text{L}.\text{T}^{-2}$ de sorte que
+   Or une force est le produit d'une masse par une accélération donc $$[F_g] = \text{M}.\text{L}.\text{T}^{-2}$$ de sorte que
    $$
    [G] = [F_g].\text{M}^-2.\text{L}^2 = \text{M}.\text{L}.\text{T}^{-2}.\text{M}^-2.\text{L}^2 = \text{M}^-1.\text{L}^3.\text{T}^{-2} 
    $$
