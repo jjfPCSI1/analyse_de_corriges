@@ -88,19 +88,14 @@
 
    Ensuite, calculons le produit $$LC$$ :
    $$
-   [LC] = \left([u] \cdot [t] \cdot [i]^{-1}\right) \cdot \left([i] \cdot [t] \cdot [u]^{-1}\right)
-   $$
-
-   En simplifiant, nous avons :
-   $$
-   [LC] = [u] \cdot [t] \cdot [i]^{-1} \cdot [i] \cdot [t] \cdot [u]^{-1} = [t]^2
+   [LC] = \left([u] \cdot [t] \cdot [i]^{-1}\right) \cdot \left([i] \cdot [t] \cdot [u]^{-1}\right)  = [t]^2
    $$
 
    Ainsi, le produit $$LC$$ a pour unité $$\text{s}^2$$.
 
    **Unité de $$\omega_0$$** :
    $$
-   [\omega_0] = \left[\frac{1}{\sqrt{LC}}\right] = \left[\frac{1}{\sqrt{\text{s}^2}}\right] = \left[\frac{1}{\text{s}}\right] = \text{s}^{-1}
+   [\omega_0] = \left[\frac{1}{\sqrt{LC}}\right] = \frac{1}{\sqrt{\text{s}^2}} = \frac{1}{\text{s}} = \text{s}^{-1}
    $$
 
 Ainsi, les unités de $$\omega_0$$ sont bien $$\text{s}^{-1}$$, ce qui est cohérent avec une pulsation angulaire, correspondant à une fréquence en radians par seconde.
