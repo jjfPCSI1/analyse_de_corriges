@@ -8,7 +8,7 @@
   * Incertitudes
     * :white_check_mark: [Incertitude sur la valeur d'une résistance](exercices/outils/incertitudes_resistance.md)
   * Oscillateurs harmonique
-    * [Circuit LC](exercices/outils/oscillateur_harmonique_LC.md)
+    * :white_check_mark: [Circuit LC](exercices/outils/oscillateur_harmonique_LC.md)
 
 * [Optique](blocs/optique.md)
   * Optique géométrique
