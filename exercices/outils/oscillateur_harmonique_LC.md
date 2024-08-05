@@ -74,43 +74,37 @@
    f' = \frac{\omega_0'}{2\pi} = \frac{\omega_0}{\sqrt{2} \cdot 2\pi} = \frac{f}{\sqrt{2}}
    $$
 
-4. Pour vérifier que les unités de $$\omega_0 = \frac{1}{\sqrt{LC}}$$ sont correctes, commençons par rappeler les relations et unités de base des éléments du circuit.
+4. Pour vérifier que les unités de $$\omega_0 = \frac{1}{\sqrt{LC}}$$ sont correctes, nous devons exprimer les unités de l'inductance $$L$$ et de la capacité $$C$$ et vérifier leur produit.
 
-   L'inductance $$L$$ relie la tension $$u$$ et la variation du courant $$i$$ par la relation $$u = L \frac{di}{dt}$$. En unités, cela donne :
+   L'inductance $$L$$ a pour relation $$u = L \frac{di}{dt}$$, ce qui signifie que l'unité de $$L$$ peut être exprimée comme :
    $$
-   [L] = \frac{[u] \cdot [t]}{[i]}
-   $$
-
-   La capacité $$C$$ relie le courant $$i$$ et la variation de la tension $$u$$ par la relation $$i = C \frac{du}{dt}$$. En unités, cela donne :
-   $$
-   [C] = \frac{[i] \cdot [t]}{[u]}
+   [L] = \frac{[u]}{\frac{[i]}{[t]}} = [u] \cdot [t] \cdot [i]^{-1}
    $$
 
-   En utilisant les unités du système international, la tension $$u$$ est en volts, soit $$V = \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-3} \cdot \text{A}^{-1}$$, le courant $$i$$ est en ampères $$A$$, et le temps $$t$$ est en secondes $$s$$.
-
-   Vérifions maintenant les unités de $$\omega_0$$.
-
-   **Unité de l'inductance $$L$$** :
+   La capacité $$C$$ a pour relation $$i = C \frac{du}{dt}$$, ce qui signifie que l'unité de $$C$$ peut être exprimée comme :
    $$
-   [L] = \frac{\text{kg} \cdot \text{m}^2 \cdot \text{s}^{-3} \cdot \text{A}^{-1} \cdot \text{s}}{\text{A}} = \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-2} \cdot \text{A}^{-2}
+   [C] = \frac{[i]}{\frac{[u]}{[t]}} = [i] \cdot [t] \cdot [u]^{-1}
    $$
 
-   **Unité de la capacité $$C$$** :
+   Ensuite, calculons le produit $$LC$$ :
    $$
-   [C] = \frac{\text{A} \cdot \text{s}}{\text{kg} \cdot \text{m}^2 \cdot \text{s}^{-3} \cdot \text{A}^{-1}} = \text{s}^4 \cdot \text{A}^2 \cdot \text{kg}^{-1} \cdot \text{m}^{-2}
+   [LC] = \left([u] \cdot [t] \cdot [i]^{-1}\right) \cdot \left([i] \cdot [t] \cdot [u]^{-1}\right)
    $$
 
-   **Produit $$LC$$** :
+   En simplifiant, nous avons :
    $$
-   [LC] = \left(\text{kg} \cdot \text{m}^2 \cdot \text{s}^{-2} \cdot \text{A}^{-2}\right) \cdot \left(\text{s}^4 \cdot \text{A}^2 \cdot \text{kg}^{-1} \cdot \text{m}^{-2}\right) = \text{s}^2
+   [LC] = [u] \cdot [t] \cdot [i]^{-1} \cdot [i] \cdot [t] \cdot [u]^{-1} = [t]^2
    $$
+
+   Ainsi, le produit $$LC$$ a pour unité $$\text{s}^2$$.
 
    **Unité de $$\omega_0$$** :
    $$
    [\omega_0] = \left[\frac{1}{\sqrt{LC}}\right] = \left[\frac{1}{\sqrt{\text{s}^2}}\right] = \left[\frac{1}{\text{s}}\right] = \text{s}^{-1}
    $$
 
-   Ainsi, les unités de $$\omega_0$$ sont bien $$\text{s}^{-1}$$, ce qui est cohérent avec une pulsation angulaire, correspondant à une fréquence en radians par seconde.
+Ainsi, les unités de $$\omega_0$$ sont bien $$\text{s}^{-1}$$, ce qui est cohérent avec une pulsation angulaire, correspondant à une fréquence en radians par seconde.
+
 
 
 5. L'énergie échangée entre la bobine et le condensateur est l'énergie électromagnétique, alternant entre énergie électrique stockée dans le condensateur $$E_C = \frac{1}{2} \frac{Q(t)^2}{C}$$ et énergie magnétique stockée dans la bobine $$E_L = \frac{1}{2} L I(t)^2$$. Au cours du temps, cette énergie oscille entre les deux formes sans perte dans un circuit idéalement sans résistance.
