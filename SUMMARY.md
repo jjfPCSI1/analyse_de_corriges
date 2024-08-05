@@ -4,7 +4,7 @@
 
 * [Outils transversaux](blocs/outils_transversaux.md)
   * Homogénéité
-    * :white_check_mark: [Calcul de l'horizon d'un trou noir](exercices/outils/horizon_trou_noir.md) 
+    * [:white_check_mark: Calcul de l'horizon d'un trou noir](exercices/outils/horizon_trou_noir.md) 
   * Incertitudes
     * [Incertitude sur la valeur d'une résistance](exercices/outils/incertitudes_resistance.md)
   * Oscillateurs harmonique
